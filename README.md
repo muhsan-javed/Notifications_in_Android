@@ -1,5 +1,5 @@
 # Notifications_in_Android
-Custon Notifications Testing
+Custon Notifications Testing or Practice
 
 # Screenshot 
 
